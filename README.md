@@ -27,4 +27,8 @@ pip install opencv-python
 
 # Screenshots
 
+
 ![GUISS](https://github.com/user-attachments/assets/6fbad440-0080-4de0-ab70-0d3f46e2b817)
+![image](https://github.com/user-attachments/assets/9436f457-b122-4683-b683-25d8892ee2e6)
+
+
