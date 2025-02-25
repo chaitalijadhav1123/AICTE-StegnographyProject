@@ -11,7 +11,7 @@ Retrieve the hidden message from the modified image by providing the correct pas
 ## Graphical User Interface (GUI):
 A simple Tkinter-based UI to facilitate the process of:
 
-## Uploading a cover image.
+Uploading a cover image.
 Entering the secret message and passcode.
 Encrypting (hiding) the message in the image.
 Uploading an encrypted image.
@@ -24,3 +24,4 @@ OpenCV
 ## Install via pip:
 
 pip install opencv-python
+
